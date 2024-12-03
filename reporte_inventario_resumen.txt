@@ -1,0 +1,12 @@
+Reporte de Inventario
+----------------------
+ID: 2, Nombre: iPhone15Pro, Categoría: Electronica, Precio: 200.00, Cantidad: 15, Valor: 3,000.00
+ID: 3, Nombre: SamsungGalaxyS24, Categoría: Electronica, Precio: 300.00, Cantidad: 30, Valor: 9,000.00
+ID: 4, Nombre: SonyWH-1000XM5, Categoría: Audio, Precio: 400.00, Cantidad: 25, Valor: 10,000.00
+ID: 5, Nombre: BoseQuietComfort45, Categoría: Audio, Precio: 500.00, Cantidad: 18, Valor: 9,000.00
+ID: 6, Nombre: NintendoSwitchOLED, Categoría: Videojuegos, Precio: 700.00, Cantidad: 22, Valor: 15,400.00
+ID: 7, Nombre: XboxSeriesX, Categoría: Videojuegos, Precio: 800.00, Cantidad: 14, Valor: 11,200.00
+ID: 8, Nombre: PlayStation5, Categoría: Videojuegos, Precio: 900.00, Cantidad: 16, Valor: 14,400.00
+ID: 9, Nombre: JBLFlip5, Categoría: Audio, Precio: 1,000.00, Cantidad: 50, Valor: 50,000.00
+----------------------
+Valor Total del Inventario: 122,000.00
